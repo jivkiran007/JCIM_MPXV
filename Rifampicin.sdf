@@ -1,0 +1,662 @@
+Rifampicin
+                    3D
+ Schrodinger Suite 2022-3.
+117121  0  0  1  0            999 V2000
+   21.3496  -23.0359  -23.4383 O   0  0  0  0  0  0
+   16.5305  -23.4519  -23.1511 O   0  0  0  0  0  0
+   14.7817  -24.0878  -25.4237 O   0  0  0  0  0  0
+   21.0178  -20.1209  -22.5375 O   0  0  0  0  0  0
+   17.5088  -17.6868  -24.6504 O   0  0  0  0  0  0
+   17.4364  -17.3464  -26.9653 O   0  0  0  0  0  0
+   22.6545  -23.8552  -25.1511 O   0  0  0  0  0  0
+   15.1271  -19.2000  -25.1474 O   0  0  0  0  0  0
+   16.9533  -19.0786  -31.4720 O   0  5  0  0  0  0
+   13.6835  -20.8103  -26.4959 O   0  0  0  0  0  0
+   15.3681  -21.0539  -31.8203 O   0  0  0  0  0  0
+   13.2783  -24.7078  -32.1782 O   0  0  0  0  0  0
+   10.6119  -23.9402  -28.2260 N   0  0  2  0  0  0
+   10.6332  -26.4499  -26.9073 N   0  3  0  0  0  0
+   13.4848  -22.9192  -30.8562 N   0  0  0  0  0  0
+   11.5286  -23.0633  -28.7366 N   0  0  0  0  0  0
+   18.9452  -23.5055  -23.5276 C   0  0  2  0  0  0
+   17.5417  -23.0821  -24.0673 C   0  0  1  0  0  0
+   20.1737  -22.8191  -24.2137 C   0  0  1  0  0  0
+   17.1662  -23.5689  -25.5091 C   0  0  1  0  0  0
+   20.0660  -21.2937  -24.5214 C   0  0  1  0  0  0
+   16.0605  -24.6820  -25.5605 C   0  0  2  0  0  0
+   19.1051  -25.0403  -23.5520 C   0  0  0  0  0  0
+   19.8189  -20.3963  -23.2687 C   0  0  2  0  0  0
+   16.0877  -25.6596  -26.7646 C   0  0  1  0  0  0
+   16.7953  -22.3383  -26.3575 C   0  0  0  0  0  0
+   21.2210  -20.7970  -25.4156 C   0  0  0  0  0  0
+   14.8827  -26.6156  -26.7924 C   0  0  0  0  0  0
+   18.9162  -19.1786  -23.4740 C   0  0  0  0  0  0
+   16.3694  -25.0124  -28.1078 C   0  0  0  0  0  0
+   22.4831  -23.5256  -23.9765 C   0  0  0  0  0  0
+   18.3963  -18.7329  -24.6306 C   0  0  0  0  0  0
+   15.5799  -24.9096  -29.1875 C   0  0  0  0  0  0
+   21.6678  -18.8780  -22.7791 C   0  0  0  0  0  0
+   16.7117  -17.4734  -25.7850 C   0  0  1  0  0  0
+   23.6239  -23.5921  -22.9712 C   0  0  0  0  0  0
+   15.9071  -19.0552  -27.4656 C   0  0  0  0  0  0
+   15.7974  -18.6850  -26.0402 C   0  0  0  0  0  0
+   16.8900  -18.1793  -27.9043 C   0  0  0  0  0  0
+   15.2131  -20.0167  -28.2548 C   0  0  0  0  0  0
+   16.1388  -24.4414  -30.4459 C   0  0  0  0  0  0
+   15.9415  -16.1644  -25.5669 C   0  0  0  0  0  0
+   15.6086  -20.0606  -29.6284 C   0  0  0  0  0  0
+   17.1899  -18.1978  -29.2727 C   0  0  0  0  0  0
+   16.5707  -19.1244  -30.1527 C   0  0  0  0  0  0
+   14.1829  -20.8767  -27.7696 C   0  0  0  0  0  0
+   15.0351  -21.0289  -30.5007 C   0  0  0  0  0  0
+   15.4697  -24.0614  -31.5544 C   0  0  0  0  0  0
+   13.6416  -21.8475  -28.6504 C   0  0  0  0  0  0
+   14.0930  -21.9505  -29.9913 C   0  0  0  0  0  0
+   18.1986  -17.1928  -29.8116 C   0  0  0  0  0  0
+   10.3304  -23.9685  -26.7831 C   0  0  0  0  0  0
+   10.4165  -25.1412  -29.0300 C   0  0  0  0  0  0
+   10.9527  -25.2182  -26.1303 C   0  0  0  0  0  0
+   11.0455  -26.3626  -28.3371 C   0  0  0  0  0  0
+   14.0164  -23.9360  -31.5698 C   0  0  0  0  0  0
+   12.6146  -22.7677  -28.1056 C   0  0  0  0  0  0
+   16.1995  -23.8444  -32.8685 C   0  0  0  0  0  0
+   11.1329  -27.6761  -26.2488 C   0  0  0  0  0  0
+   18.9665  -23.2070  -22.4787 H   0  0  0  0  0  0
+   17.4914  -21.9949  -24.0325 H   0  0  0  0  0  0
+   20.2888  -23.3426  -25.1516 H   0  0  0  0  0  0
+   18.0665  -23.9922  -25.9512 H   0  0  0  0  0  0
+   19.1938  -21.2117  -25.1511 H   0  0  0  0  0  0
+   16.1875  -25.3310  -24.6928 H   0  0  0  0  0  0
+   19.0516  -25.4470  -24.5623 H   0  0  0  0  0  0
+   20.0709  -25.3442  -23.1514 H   0  0  0  0  0  0
+   18.3342  -25.5292  -22.9541 H   0  0  0  0  0  0
+   19.2237  -20.9917  -22.5789 H   0  0  0  0  0  0
+   16.9613  -26.2930  -26.6059 H   0  0  0  0  0  0
+   16.0186  -21.7633  -25.8595 H   0  0  0  0  0  0
+   17.6382  -21.6720  -26.5025 H   0  0  0  0  0  0
+   16.4327  -22.5895  -27.3488 H   0  0  0  0  0  0
+   22.1663  -20.7748  -24.8733 H   0  0  0  0  0  0
+   21.3672  -21.4479  -26.2792 H   0  0  0  0  0  0
+   21.0293  -19.7922  -25.7909 H   0  0  0  0  0  0
+   16.5470  -22.8687  -22.3909 H   0  0  0  0  0  0
+   14.9965  -27.3731  -27.5685 H   0  0  0  0  0  0
+   14.7696  -27.1317  -25.8396 H   0  0  0  0  0  0
+   13.9591  -26.0741  -26.9867 H   0  0  0  0  0  0
+   18.6275  -18.6732  -22.5638 H   0  0  0  0  0  0
+   14.8078  -23.5902  -24.6154 H   0  0  0  0  0  0
+   17.3675  -24.6283  -28.2012 H   0  0  0  0  0  0
+   18.5880  -19.1537  -25.6079 H   0  0  0  0  0  0
+   14.5670  -25.2839  -29.1546 H   0  0  0  0  0  0
+   22.6363  -18.8789  -22.2789 H   0  0  0  0  0  0
+   21.8419  -18.6875  -23.8371 H   0  0  0  0  0  0
+   21.0924  -18.0467  -22.3694 H   0  0  0  0  0  0
+   23.3679  -24.2550  -22.1469 H   0  0  0  0  0  0
+   24.5331  -23.9641  -23.4426 H   0  0  0  0  0  0
+   23.8262  -22.6017  -22.5653 H   0  0  0  0  0  0
+   17.2127  -24.5125  -30.5420 H   0  0  0  0  0  0
+   16.6409  -15.3321  -25.4839 H   0  0  0  0  0  0
+   15.2683  -15.9770  -26.4039 H   0  0  0  0  0  0
+   15.3545  -16.2278  -24.6506 H   0  0  0  0  0  0
+   10.6654  -23.0505  -26.2967 H   0  0  0  0  0  0
+    9.2471  -23.9958  -26.6626 H   0  0  0  0  0  0
+    9.3429  -25.2914  -29.1582 H   0  0  0  0  0  0
+   10.8369  -25.0058  -30.0286 H   0  0  0  0  0  0
+   18.6238  -16.5726  -29.0247 H   0  0  0  0  0  0
+   19.0160  -17.7058  -30.3147 H   0  0  0  0  0  0
+   17.7148  -16.5353  -30.5342 H   0  0  0  0  0  0
+   10.5891  -25.3161  -25.1070 H   0  0  0  0  0  0
+   12.0351  -25.1066  -26.0664 H   0  0  0  0  0  0
+   10.7578  -27.2710  -28.8672 H   0  0  0  0  0  0
+   12.1323  -26.2961  -28.3984 H   0  0  0  0  0  0
+   12.4783  -22.9597  -30.7889 H   0  0  0  0  0  0
+   12.8113  -23.1895  -27.1204 H   0  0  0  0  0  0
+   15.7341  -23.0517  -33.4541 H   0  0  0  0  0  0
+   17.2410  -23.5690  -32.7015 H   0  0  0  0  0  0
+   16.1772  -24.7573  -33.4636 H   0  0  0  0  0  0
+   12.2220  -27.6772  -26.1924 H   0  0  0  0  0  0
+   10.7403  -27.7581  -25.2345 H   0  0  0  0  0  0
+   10.8196  -28.5652  -26.7971 H   0  0  0  0  0  0
+   14.1764  -20.2237  -25.9248 H   0  0  0  0  0  0
+   16.0048  -20.3295  -31.9049 H   0  0  0  0  0  0
+    9.6256  -26.5228  -26.9122 H   0  0  0  0  0  0
+  1 19  1  0  0  0
+  1 31  1  0  0  0
+  2 18  1  0  0  0
+  2 77  1  0  0  0
+  3 22  1  0  0  0
+  3 82  1  0  0  0
+  4 24  1  0  0  0
+  4 34  1  0  0  0
+  5 32  1  0  0  0
+  5 35  1  0  0  0
+  6 35  1  0  0  0
+  6 39  1  0  0  0
+  7 31  2  0  0  0
+  8 38  2  0  0  0
+  9 45  1  0  0  0
+ 10 46  1  0  0  0
+ 10115  1  0  0  0
+ 11 47  1  0  0  0
+ 11116  1  0  0  0
+ 12 56  2  0  0  0
+ 13 16  1  0  0  0
+ 13 52  1  0  0  0
+ 13 53  1  0  0  0
+ 14 54  1  0  0  0
+ 14 55  1  0  0  0
+ 14 59  1  0  0  0
+ 14117  1  0  0  0
+ 15 50  1  0  0  0
+ 15 56  1  0  0  0
+ 15107  1  0  0  0
+ 16 57  2  0  0  0
+ 17 18  1  0  0  0
+ 17 19  1  0  0  0
+ 17 23  1  0  0  0
+ 17 60  1  0  0  0
+ 18 20  1  0  0  0
+ 18 61  1  0  0  0
+ 19 21  1  0  0  0
+ 19 62  1  0  0  0
+ 20 22  1  0  0  0
+ 20 26  1  0  0  0
+ 20 63  1  0  0  0
+ 21 24  1  0  0  0
+ 21 27  1  0  0  0
+ 21 64  1  0  0  0
+ 22 25  1  0  0  0
+ 22 65  1  0  0  0
+ 23 66  1  0  0  0
+ 23 67  1  0  0  0
+ 23 68  1  0  0  0
+ 24 29  1  0  0  0
+ 24 69  1  0  0  0
+ 25 28  1  0  0  0
+ 25 30  1  0  0  0
+ 25 70  1  0  0  0
+ 26 71  1  0  0  0
+ 26 72  1  0  0  0
+ 26 73  1  0  0  0
+ 27 74  1  0  0  0
+ 27 75  1  0  0  0
+ 27 76  1  0  0  0
+ 28 78  1  0  0  0
+ 28 79  1  0  0  0
+ 28 80  1  0  0  0
+ 29 32  2  0  0  0
+ 29 81  1  0  0  0
+ 30 33  2  0  0  0
+ 30 83  1  0  0  0
+ 31 36  1  0  0  0
+ 32 84  1  0  0  0
+ 33 41  1  0  0  0
+ 33 85  1  0  0  0
+ 34 86  1  0  0  0
+ 34 87  1  0  0  0
+ 34 88  1  0  0  0
+ 35 38  1  0  0  0
+ 35 42  1  0  0  0
+ 36 89  1  0  0  0
+ 36 90  1  0  0  0
+ 36 91  1  0  0  0
+ 37 38  1  0  0  0
+ 37 39  2  0  0  0
+ 37 40  1  0  0  0
+ 39 44  1  0  0  0
+ 40 43  1  0  0  0
+ 40 46  2  0  0  0
+ 41 48  2  0  0  0
+ 41 92  1  0  0  0
+ 42 93  1  0  0  0
+ 42 94  1  0  0  0
+ 42 95  1  0  0  0
+ 43 45  1  0  0  0
+ 43 47  2  0  0  0
+ 44 45  2  0  0  0
+ 44 51  1  0  0  0
+ 46 49  1  0  0  0
+ 47 50  1  0  0  0
+ 48 56  1  0  0  0
+ 48 58  1  0  0  0
+ 49 50  2  0  0  0
+ 49 57  1  0  0  0
+ 51100  1  0  0  0
+ 51101  1  0  0  0
+ 51102  1  0  0  0
+ 52 54  1  0  0  0
+ 52 96  1  0  0  0
+ 52 97  1  0  0  0
+ 53 55  1  0  0  0
+ 53 98  1  0  0  0
+ 53 99  1  0  0  0
+ 54103  1  0  0  0
+ 54104  1  0  0  0
+ 55105  1  0  0  0
+ 55106  1  0  0  0
+ 57108  1  0  0  0
+ 58109  1  0  0  0
+ 58110  1  0  0  0
+ 58111  1  0  0  0
+ 59112  1  0  0  0
+ 59113  1  0  0  0
+ 59114  1  0  0  0
+M  CHG  2   9  -1  14   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+18441
+
+> <s_m_entry_name>
+Structure18441
+
+> <i_pdb_PDB_Model>
+1
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_m_Source_Path>
+E:\MonkeyPox\DockingAnalysis\Selected_Leads
+
+> <s_m_Source_File>
+Standard_Selected.mae
+
+> <i_m_Source_File_Index>
+3
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2022-3
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_converted_selenomethionines>
+1
+
+> <r_ppw_preprocess_pH>
+7.4
+
+> <r_i_Potential_Energy-S-OPLS>
+-1275.91489220586
+
+> <r_i_RMS_Derivative-S-OPLS>
+0.0804048801441118
+
+> <r_i_Max_Derivative-S-OPLS>
+1.46452579318217
+
+> <r_i_Stretch_Energy-S-OPLS>
+224.638268338113
+
+> <r_i_Bend_Energy-S-OPLS>
+1057.79149084136
+
+> <r_i_LJ-14_Energy-S-OPLS>
+2652.09267774408
+
+> <r_i_El-14_Energy-S-OPLS>
+1053.20474030048
+
+> <r_i_Van_der_Waals_Energy-S-OPLS>
+-4728.1627556476
+
+> <r_i_Electrostatic_Energy-S-OPLS>
+-2929.59806836229
+
+> <r_i_Dihedral_Energy-S-OPLS>
+1222.49984431205
+
+> <r_i_target_temperature>
+298
+
+> <s_m_job_name>
+proteinprep_ScaffoldproteinD13
+
+> <i_glide_grid_version>
+96121
+
+> <r_glide_gridbox_xcent>
+19.1676296435644
+
+> <r_glide_gridbox_ycent>
+-24.8549347128713
+
+> <r_glide_gridbox_zcent>
+-26.9511741089109
+
+> <r_glide_gridbox_xrange>
+30
+
+> <r_glide_gridbox_yrange>
+30
+
+> <r_glide_gridbox_zrange>
+30
+
+> <r_glide_gridbox_ligxrange>
+10
+
+> <r_glide_gridbox_ligyrange>
+10
+
+> <r_glide_gridbox_ligzrange>
+10
+
+> <s_glide_grid_type>
+glide
+
+> <b_glide_receptor>
+1
+
+> <i_lp_mmshare_version>
+59121
+
+> <s_epik_input>
+W0NIM11bQ0BdMTJPXFtDSF09W0NIXVxbQ0BIXShPW0NIM10pW0NAQEhdKFtDSDNdKVtDQEBIXShPQyg9TylbQ0gzXSlbQ0BIXShbQ0gzXSlbQ0BIXShbT0hdKVtDQEhdKFtDSDNdKVtDQEBIXShbT0hdKVtDQEBIXShbQ0gzXSkvW0NIXT1bQ0hdL1tDSF09QyhbQ0gzXSlcQyg9TylbTkhdYzNjKFtPSF0pYzRjKGMoQzI9TyljKE8xKWMoW0NIM10pYzRbT0hdKWMoW09IXSljM1xbQ0hdPU5cTjVbQ0gyXVtDSDJdTihbQ0gzXSlbQ0gyXVtDSDJdNQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.5423
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.4502
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0920
+
+> <r_epik_State_Penalty>
+  0.6983
+
+> <r_epik_Charging_Adjusted_Penalty>
+1.14851564378347
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+99.324581
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Rifampin_135398735-1
+
+> <s_i_glide_gridfile>
+glide-grid_ScaffoldproteinD13
+
+> <i_i_glide_lignum>
+3
+
+> <i_i_glide_rotatable_bonds>
+9
+
+> <r_i_docking_score>
+-4.63087032312188
+
+> <r_i_glide_ligand_efficiency>
+-0.0784893275105403
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.305558670267527
+
+> <r_i_glide_ligand_efficiency_ln>
+-0.912030757878516
+
+> <r_i_glide_gscore>
+-5.32917032312188
+
+> <r_i_glide_lipo>
+-0.87758640217163
+
+> <r_i_glide_hbond>
+-0.303668526120584
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-0.2622272009608
+
+> <r_i_glide_evdw>
+-37.8398590087891
+
+> <r_i_glide_ecoul>
+-5.08759641647339
+
+> <r_i_glide_erotb>
+0.0967710556314523
+
+> <r_i_glide_esite>
+-0.163005756524577
+
+> <r_i_glide_emodel>
+-45.9344635009766
+
+> <r_i_glide_energy>
+-42.9274554252625
+
+> <r_i_glide_einternal>
+7.14444494247437
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_posenum>
+13
+
+> <r_i_glide_eff_state_penalty>
+0.6983
+
+> <r_glide_XP_GScore>
+-5.32917032312188
+
+> <r_glide_XP_HBond>
+-2.083326592433
+
+> <r_glide_XP_PhobEn>
+0
+
+> <r_glide_XP_PhobEnHB>
+0
+
+> <r_glide_XP_LowMW>
+0
+
+> <r_glide_XP_RotPenal>
+0.041473311204338
+
+> <r_glide_XP_LipophilicEvdW>
+-2.89373711238156
+
+> <r_glide_XP_PhobEnPairHB>
+0
+
+> <r_glide_XP_Electro>
+-0.381569731235504
+
+> <r_glide_XP_Sitemap>
+-0.119973492568281
+
+> <r_glide_XP_Penalties>
+3.79848363118574e-07
+
+> <r_glide_XP_PiStack>
+0
+
+> <r_glide_XP_HBPenal>
+0
+
+> <r_glide_XP_ExposPenal>
+0.107962914443766
+
+> <r_glide_XP_PiCat>
+0
+
+> <r_glide_XP_ClBr>
+0
+
+> <r_glide_XP_Zpotr>
+0
+
+> <i_glide_XP_PoseRank>
+1
+
+> <PUBCHEM_COMPOUND_CID>
+135398735
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+59
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+9
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+4
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+389
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH. This compound has an imine and may undergo hydrolysis.
+
+> <i_f3d_flags>
+0
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+1620
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+15
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+6
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcfB/vAAAAAAAAAAAAAAAAAAAASAAAAA8YIAAAAAAAEjBUAAAHgAYCAAADRzhmAYCzsPABgCoArXzWAKSCAAlIAAYiAFtTNgedzbWtZ+2eWjn7B3c+Yf6/P/O6QADSgAaEADSAAaUADQgAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,21Z)-2,15,17,27,29-pentahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(E)-(4-methylpiperazin-1-yl)iminomethyl]-6,23-dioxo-8,30-dioxa-24-azatetracyclo[23.3.1.14,7.05,28]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] acetate
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+acetic acid [(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,21Z)-2,15,17,27,29-pentahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(E)-(4-methyl-1-piperazinyl)iminomethyl]-6,23-dioxo-8,30-dioxa-24-azatetracyclo[23.3.1.14,7.05,28]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[(7<I>S</I>,9<I>E</I>,11<I>S</I>,12<I>R</I>,13<I>S</I>,14<I>R</I>,15<I>R</I>,16<I>R</I>,17<I>S</I>,18<I>S</I>,19<I>E</I>,21<I>Z</I>)-2,15,17,27,29-pentahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(<I>E</I>)-(4-methylpiperazin-1-yl)iminomethyl]-6,23-dioxo-8,30-dioxa-24-azatetracyclo[23.3.1.1<SUP>4,7</SUP>.0<SUP>5,28</SUP>]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] acetate
+
+> <PUBCHEM_IUPAC_NAME>
+[(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,21Z)-2,15,17,27,29-pentahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(E)-(4-methylpiperazin-1-yl)iminomethyl]-6,23-dioxo-8,30-dioxa-24-azatetracyclo[23.3.1.14,7.05,28]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] acetate
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,21Z)-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(E)-(4-methylpiperazin-1-yl)iminomethyl]-2,15,17,27,29-pentakis(oxidanyl)-6,23-bis(oxidanylidene)-8,30-dioxa-24-azatetracyclo[23.3.1.14,7.05,28]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] ethanoate
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+acetic acid [(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,21Z)-2,15,17,27,29-pentahydroxy-6,23-diketo-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(E)-(4-methylpiperazino)iminomethyl]-8,30-dioxa-24-azatetracyclo[23.3.1.14,7.05,28]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C43H58N4O12/c1-21-12-11-13-22(2)42(55)45-33-28(20-44-47-17-15-46(9)16-18-47)37(52)30-31(38(33)53)36(51)26(6)40-32(30)41(54)43(8,59-40)57-19-14-29(56-10)23(3)39(58-27(7)48)25(5)35(50)24(4)34(21)49/h11-14,19-21,23-25,29,34-35,39,49-53H,15-18H2,1-10H3,(H,45,55)/b12-11+,19-14+,22-13-,44-20+/t21-,23+,24+,25+,29-,34-,35+,39+,43-/m0/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+JQXXHWHPUNPDRT-WLSIYKJHSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.9
+
+> <PUBCHEM_EXACT_MASS>
+822.4051233
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C43H58N4O12
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+822.9
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1C=CC=C(C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)C(O4)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)C=NN5CCN(CC5)C)C
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C[C@H]1/C=C/C=C(\C(=O)NC2=C(C(=C3C(=C2O)C(=C(C4=C3C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C=N/N5CCN(CC5)C)/C
+
+> <PUBCHEM_CACTVS_TPSA>
+220
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+822.4051233
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_BONDANNOTATIONS>
+19  1  5
+17  23  5
+18  2  6
+20  26  6
+21  27  6
+25  28  5
+22  3  6
+35  42  5
+37  39  8
+37  40  8
+39  44  8
+24  4  6
+40  43  8
+40  46  8
+43  45  8
+43  47  8
+44  45  8
+46  49  8
+47  50  8
+49  50  8
+
+> <b_psp_isMulticycle>
+0
+
+> <b_psp_isMacrocycle>
+1
+
+> <s_m_subgroup_title>
+Standard_Selected
+
+> <s_m_subgroupid>
+Standard_Selected
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

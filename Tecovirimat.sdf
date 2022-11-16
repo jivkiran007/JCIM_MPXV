@@ -1,0 +1,552 @@
+Tecovirimat
+                    3D
+ Schrodinger Suite 2022-3.
+ 42 46  0  0  1  0            999 V2000
+   10.5062   -5.3910   11.3355 F   0  0  0  0  0  0
+    8.4220   -5.6021   11.8691 F   0  0  0  0  0  0
+    9.1971   -6.6080   10.1129 F   0  0  0  0  0  0
+    8.6866    2.0085    9.2760 O   0  0  0  0  0  0
+    5.4957    1.3509    6.1087 O   0  0  0  0  0  0
+    8.6819   -0.6663    6.4028 O   0  0  0  0  0  0
+    7.1956    1.3767    7.6487 N   0  0  0  0  0  0
+    7.1761    0.0079    7.9683 N   0  0  0  0  0  0
+    7.0098    6.0163    7.9656 C   0  0  1  0  0  0
+    5.9462    5.7907    6.8899 C   0  0  2  0  0  0
+    5.7483    6.8630    7.9437 C   0  0  0  0  0  0
+    7.2405    4.7344    8.7864 C   0  0  2  0  0  0
+    5.4039    4.3521    6.9471 C   0  0  1  0  0  0
+    7.7366    3.6616    7.7635 C   0  0  2  0  0  0
+    6.6397    3.4347    6.6664 C   0  0  1  0  0  0
+    5.8893    4.2664    9.3138 C   0  0  0  0  0  0
+    4.9468    4.0723    8.3758 C   0  0  0  0  0  0
+    7.9430    2.2531    8.3258 C   0  0  0  0  0  0
+    6.3626    1.9282    6.7641 C   0  0  0  0  0  0
+    8.0665   -0.8558    7.4548 C   0  0  0  0  0  0
+    8.3439   -2.0595    8.3166 C   0  0  0  0  0  0
+    9.6330   -2.6386    8.3076 C   0  0  0  0  0  0
+    7.3443   -2.6315    9.1400 C   0  0  0  0  0  0
+    9.9271   -3.7465    9.1247 C   0  0  0  0  0  0
+    7.6392   -3.7345    9.9643 C   0  0  0  0  0  0
+    8.9374   -4.2951    9.9691 C   0  0  0  0  0  0
+    9.2697   -5.4964   10.8453 C   0  0  0  0  0  0
+    7.9207    6.5125    7.6422 H   0  0  0  0  0  0
+    6.2006    6.1348    5.8891 H   0  0  0  0  0  0
+    4.9977    6.7202    8.7176 H   0  0  0  0  0  0
+    5.8516    7.8958    7.6166 H   0  0  0  0  0  0
+    7.9464    4.9103    9.5989 H   0  0  0  0  0  0
+    4.5886    4.2150    6.2352 H   0  0  0  0  0  0
+    8.6738    3.9750    7.3096 H   0  0  0  0  0  0
+    7.0443    3.6514    5.6758 H   0  0  0  0  0  0
+    5.7486    4.0904   10.3647 H   0  0  0  0  0  0
+    3.9419    3.7318    8.5843 H   0  0  0  0  0  0
+    6.7171   -0.1437    8.8485 H   0  0  0  0  0  0
+   10.4128   -2.2252    7.6838 H   0  0  0  0  0  0
+    6.3438   -2.2286    9.1567 H   0  0  0  0  0  0
+   10.9196   -4.1738    9.1101 H   0  0  0  0  0  0
+    6.8658   -4.1524   10.5909 H   0  0  0  0  0  0
+  1 27  1  0  0  0
+  2 27  1  0  0  0
+  3 27  1  0  0  0
+  4 18  2  0  0  0
+  5 19  2  0  0  0
+  6 20  2  0  0  0
+  7  8  1  0  0  0
+  7 18  1  0  0  0
+  7 19  1  0  0  0
+  8 20  1  0  0  0
+  8 38  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+  9 12  1  0  0  0
+  9 28  1  0  0  0
+ 10 11  1  0  0  0
+ 10 13  1  0  0  0
+ 10 29  1  0  0  0
+ 11 30  1  0  0  0
+ 11 31  1  0  0  0
+ 12 14  1  0  0  0
+ 12 16  1  0  0  0
+ 12 32  1  0  0  0
+ 13 15  1  0  0  0
+ 13 17  1  0  0  0
+ 13 33  1  0  0  0
+ 14 15  1  0  0  0
+ 14 18  1  0  0  0
+ 14 34  1  0  0  0
+ 15 19  1  0  0  0
+ 15 35  1  0  0  0
+ 16 17  2  0  0  0
+ 16 36  1  0  0  0
+ 17 37  1  0  0  0
+ 20 21  1  0  0  0
+ 21 22  2  0  0  0
+ 21 23  1  0  0  0
+ 22 24  1  0  0  0
+ 22 39  1  0  0  0
+ 23 25  2  0  0  0
+ 23 40  1  0  0  0
+ 24 26  2  0  0  0
+ 24 41  1  0  0  0
+ 25 26  1  0  0  0
+ 25 42  1  0  0  0
+ 26 27  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+18445
+
+> <s_m_entry_name>
+Structure18445
+
+> <i_pdb_PDB_Model>
+1
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_m_Source_Path>
+E:\MonkeyPox\DockingAnalysis\Selected_Leads
+
+> <s_m_Source_File>
+Standard_Selected.mae
+
+> <i_m_Source_File_Index>
+1
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2022-3
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_converted_selenomethionines>
+1
+
+> <r_ppw_preprocess_pH>
+7.4
+
+> <r_i_Potential_Energy-S-OPLS>
+-1294.15693000005
+
+> <r_i_RMS_Derivative-S-OPLS>
+0.0717226258407368
+
+> <r_i_Max_Derivative-S-OPLS>
+0.748276534123525
+
+> <r_i_Stretch_Energy-S-OPLS>
+146.725536871379
+
+> <r_i_Bend_Energy-S-OPLS>
+721.004302729151
+
+> <r_i_LJ-14_Energy-S-OPLS>
+1798.16609840637
+
+> <r_i_El-14_Energy-S-OPLS>
+682.426024209007
+
+> <r_i_Van_der_Waals_Energy-S-OPLS>
+-3472.6252005908
+
+> <r_i_Electrostatic_Energy-S-OPLS>
+-2017.02599508899
+
+> <r_i_Dihedral_Energy-S-OPLS>
+723.378628933967
+
+> <r_i_target_temperature>
+298
+
+> <s_m_job_name>
+proteinprep_F13
+
+> <i_glide_grid_version>
+96121
+
+> <r_glide_gridbox_xcent>
+5.54847072864322
+
+> <r_glide_gridbox_ycent>
+-0.517275743718593
+
+> <r_glide_gridbox_zcent>
+5.76444646231156
+
+> <r_glide_gridbox_xrange>
+30
+
+> <r_glide_gridbox_yrange>
+30
+
+> <r_glide_gridbox_zrange>
+30
+
+> <r_glide_gridbox_ligxrange>
+10
+
+> <r_glide_gridbox_ligyrange>
+10
+
+> <r_glide_gridbox_ligzrange>
+10
+
+> <s_glide_grid_type>
+glide
+
+> <b_glide_receptor>
+1
+
+> <i_lp_mmshare_version>
+59121
+
+> <s_epik_input>
+RkMoRikoRiljKFtjSF1bY0hdMSlbY0hdW2NIXWMxQyg9TylbTkhdTihDMj1PKUMoPU8pW0NASF0oW0NAQEhdM1tDSF09W0NIXTQpW0NAQEhdMltDQEBIXTRbQ0BIXShbQ0BIXTM1KVtDSDJdNQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0009
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0009
+
+> <r_epik_State_Penalty>
+  0.0009
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000869096597345488
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+58.014867
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Tecovirimat_16124688-1
+
+> <s_i_glide_gridfile>
+glide-grid_F13
+
+> <i_i_glide_lignum>
+2
+
+> <i_i_glide_rotatable_bonds>
+4
+
+> <r_i_docking_score>
+-4.52772868025747
+
+> <r_i_glide_ligand_efficiency>
+-0.167693654824351
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.503080963920362
+
+> <r_i_glide_ligand_efficiency_ln>
+-1.05398059132279
+
+> <r_i_glide_gscore>
+-4.52862868025747
+
+> <r_i_glide_lipo>
+-1.85670072880866
+
+> <r_i_glide_hbond>
+0
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-1.78707557306116
+
+> <r_i_glide_evdw>
+-35.023494720459
+
+> <r_i_glide_ecoul>
+-2.58136653900146
+
+> <r_i_glide_erotb>
+0.410026756487943
+
+> <r_i_glide_esite>
+-0.0920982756427831
+
+> <r_i_glide_emodel>
+-48.6265480863448
+
+> <r_i_glide_energy>
+-37.6048612594604
+
+> <r_i_glide_einternal>
+2.69384026527405
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_posenum>
+19
+
+> <r_i_glide_eff_state_penalty>
+0.0009
+
+> <r_glide_XP_GScore>
+-4.52862868025747
+
+> <r_glide_XP_HBond>
+-0.367029884869199
+
+> <r_glide_XP_PhobEn>
+0
+
+> <r_glide_XP_PhobEnHB>
+0
+
+> <r_glide_XP_LowMW>
+-0.245569303333333
+
+> <r_glide_XP_RotPenal>
+0.175725759763261
+
+> <r_glide_XP_LipophilicEvdW>
+-3.26897848650595
+
+> <r_glide_XP_PhobEnPairHB>
+0
+
+> <r_glide_XP_Electro>
+-0.19360249042511
+
+> <r_glide_XP_Sitemap>
+-0.652734889899823
+
+> <r_glide_XP_Penalties>
+0
+
+> <r_glide_XP_PiStack>
+0
+
+> <r_glide_XP_HBPenal>
+0
+
+> <r_glide_XP_ExposPenal>
+0.0235606150126808
+
+> <r_glide_XP_PiCat>
+0
+
+> <r_glide_XP_ClBr>
+0
+
+> <r_glide_XP_Zpotr>
+0
+
+> <i_glide_XP_PoseRank>
+1
+
+> <PUBCHEM_COMPOUND_CID>
+16124688
+
+> <PUBCHEM_CONFORMER_RMSD>
+0.8
+
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+2
+
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+38
+1 -0.34
+10 -0.19
+11 -0.2
+12 0.23
+13 0.23
+14 0.06
+15 0.06
+16 -0.29
+17 -0.29
+18 0.57
+19 0.57
+2 -0.34
+20 0.54
+21 0.09
+22 -0.15
+23 -0.15
+24 -0.15
+25 -0.15
+26 -0.14
+27 1.16
+28 0.1
+29 0.1
+3 -0.34
+30 0.1
+31 0.1
+36 0.15
+37 0.15
+38 0.37
+39 0.15
+4 -0.57
+40 0.15
+41 0.15
+42 0.15
+5 -0.57
+6 -0.57
+7 -0.12
+8 -0.43
+9 -0.19
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+1 8 donor
+5 7 14 15 18 19 rings
+6 21 22 23 24 25 26 rings
+9 9 10 11 12 13 14 15 16 17 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+27
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+6
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_CONFORMER_ID>
+00F60B1000000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+82.7994
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+35.55
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10 15 18113333142092862616
+10299344 5 18113338609438413882
+106641 1 18114187458400865881
+11089746 13 15769772472666386418
+11315181 36 18272653467578481577
+11524674 6 18272368689456058887
+12236239 1 15697997448642481454
+12516196 113 14692569922996382666
+12788726 201 17774441568783255384
+13288520 33 12829490351015742831
+13533116 47 18201155443481820050
+13631057 29 13551484699638622705
+13914758 101 13614251355664595187
+14251764 18 17917709114819223087
+14856354 85 18334021613401993047
+14933364 13 18410575098033517868
+15183329 4 17203613683727437596
+15716309 27 16515402971575383554
+15788980 27 16630525159266477564
+17093844 174 18408879650850110985
+17349148 13 12175622892762214955
+17844677 252 18259706700813141276
+18608769 82 18339645646097440179
+19377110 9 16588293982790489208
+19489759 90 11743841365241394959
+20281389 69 18409727361746962712
+20511986 3 14333120837308190908
+21033648 29 18337372890980035921
+21150785 3 15482665792797365133
+21792961 116 18338511938261079190
+2297311 6 17821729424805131812
+23035841 295 15068621586745096865
+23198884 109 18131350808302057235
+23402539 116 11095884860910255515
+23559900 14 17917140706036332696
+2838139 119 16917349225882075177
+34797466 226 17022910051910071478
+3545911 37 18272089404748300570
+3633792 109 14404638558019876677
+4073 2 18337392751098561066
+4325135 7 12973604434678374938
+5104073 3 17896311415962337696
+5265222 85 18190191259843174382
+542803 24 16845570924739639300
+59755656 215 18413111632878288350
+59755656 520 18411414025395318919
+7226269 152 18131070415694126305
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+506.26
+18.2
+1.49
+1.27
+22.46
+0.27
+0.27
+-1.8
+-1.99
+-0.39
+-0.2
+-0.95
+-0.23
+0.54
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+1136.951
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
+
+> <PUBCHEM_SHAPE_VOLUME>
+272.5
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+4.4
+
+> <i_f3d_flags>
+0
+
+> <s_m_subgroup_title>
+Standard_Selected
+
+> <s_m_subgroupid>
+Standard_Selected
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
