@@ -1,0 +1,895 @@
+F13L-LD-2
+                    3D
+ Schrodinger Suite 2022-3.
+ 45 48  0  0  1  0            999 V2000
+    5.5047    0.8810    5.2416 O   0  0  0  0  0  0
+    6.1482   -2.1922    5.1442 O   0  0  0  0  0  0
+    3.5747   -1.8836    6.4009 O   0  0  0  0  0  0
+    3.3775    2.6102    5.4490 O   0  0  0  0  0  0
+   10.0114    4.0265   11.8964 O   0  0  0  0  0  0
+   11.8630    0.4372   13.5445 O   0  0  0  0  0  0
+   11.5731    3.6479   13.4203 O   0  5  0  0  0  0
+    7.2623    0.8822    6.8071 N   0  0  0  0  0  0
+    9.0086    1.5780    8.0835 N   0  0  0  0  0  0
+    5.5614    2.3894    7.6912 N   0  0  0  0  0  0
+    8.4694    3.8989   10.2586 N   0  0  0  0  0  0
+    6.3849    3.9529    9.3438 N   0  0  0  0  0  0
+    9.7077    1.9780   11.0398 N   0  0  0  0  0  0
+    5.9745   -1.2296    6.1920 C   0  0  1  0  0  0
+    6.5552    0.1361    5.7791 C   0  0  1  0  0  0
+    4.5247   -0.8298    6.4863 C   0  0  1  0  0  0
+    4.2279    0.3084    5.5070 C   0  0  1  0  0  0
+    3.1974    1.3293    6.0247 C   0  0  0  0  0  0
+    6.7870    1.8812    7.6337 C   0  0  0  0  0  0
+    8.5966    0.7610    7.1480 C   0  0  0  0  0  0
+    7.8845    2.2984    8.4185 C   0  0  0  0  0  0
+    7.5975    3.3470    9.3310 C   0  0  0  0  0  0
+   10.6412    1.8780   11.9801 C   0  0  0  0  0  0
+    5.4328    3.4447    8.5255 C   0  0  0  0  0  0
+   11.3327    0.5332   12.2332 C   0  0  1  0  0  0
+    9.3844    3.2436   10.9916 C   0  0  0  0  0  0
+   10.8218    3.1482   12.5273 C   0  0  0  0  0  0
+   12.4818    0.2775   11.2493 C   0  0  0  0  0  0
+    6.4762   -1.5767    7.0965 H   0  0  0  0  0  0
+    7.2961    0.0096    4.9874 H   0  0  0  0  0  0
+    4.5107   -0.4327    7.5025 H   0  0  0  0  0  0
+    3.8948   -0.0315    4.5288 H   0  0  0  0  0  0
+    2.1980    0.9433    5.8505 H   0  0  0  0  0  0
+    3.2819    1.4612    7.1012 H   0  0  0  0  0  0
+    5.2842   -2.3784    4.7430 H   0  0  0  0  0  0
+    3.4696   -2.1574    5.4747 H   0  0  0  0  0  0
+    9.2271    0.0442    6.6353 H   0  0  0  0  0  0
+    2.7755    2.7483    4.6971 H   0  0  0  0  0  0
+    8.0982    4.7264   10.6752 H   0  0  0  0  0  0
+   10.5988   -0.2682   12.1254 H   0  0  0  0  0  0
+    4.4560    3.9163    8.5306 H   0  0  0  0  0  0
+   12.1177    0.2959   10.2212 H   0  0  0  0  0  0
+   12.9455   -0.6956   11.4104 H   0  0  0  0  0  0
+   13.2557    1.0410   11.3358 H   0  0  0  0  0  0
+   12.5040   -0.2804   13.5438 H   0  0  0  0  0  0
+  1 15  1  0  0  0
+  1 17  1  0  0  0
+  2 14  1  0  0  0
+  2 35  1  0  0  0
+  3 16  1  0  0  0
+  3 36  1  0  0  0
+  4 18  1  0  0  0
+  4 38  1  0  0  0
+  5 27  1  0  0  0
+  5 26  1  0  0  0
+  6 25  1  0  0  0
+  6 45  1  0  0  0
+  7 27  1  0  0  0
+  8 15  1  0  0  0
+  8 19  1  0  0  0
+  8 20  1  0  0  0
+  9 20  2  0  0  0
+  9 21  1  0  0  0
+ 10 19  2  0  0  0
+ 10 24  1  0  0  0
+ 11 26  1  0  0  0
+ 11 22  1  0  0  0
+ 11 39  1  0  0  0
+ 12 22  1  0  0  0
+ 12 24  2  0  0  0
+ 13 26  2  0  0  0
+ 13 23  1  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 14 29  1  0  0  0
+ 15 30  1  0  0  0
+ 16 17  1  0  0  0
+ 16 31  1  0  0  0
+ 17 18  1  0  0  0
+ 17 32  1  0  0  0
+ 18 33  1  0  0  0
+ 18 34  1  0  0  0
+ 19 21  1  0  0  0
+ 20 37  1  0  0  0
+ 21 22  2  0  0  0
+ 23 25  1  0  0  0
+ 23 27  2  0  0  0
+ 24 41  1  0  0  0
+ 25 28  1  0  0  0
+ 25 40  1  0  0  0
+ 28 42  1  0  0  0
+ 28 43  1  0  0  0
+ 28 44  1  0  0  0
+M  CHG  1   7  -1
+M  END
+> <s_m_entry_id>
+8
+
+> <s_m_entry_name>
+PubChem_NatProd.4216
+
+> <s_m_Source_Path>
+E:\MonkeyPox\DockingAnalysis\Top5_Leads
+
+> <s_m_Source_File>
+Top5_Leads.mae
+
+> <i_m_Source_File_Index>
+8
+
+> <s_m_job_name>
+prime_mmgbsa_F13
+
+> <canvasUID>
+4216
+
+> <i_lp_mmshare_version>
+59121
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W09IXVtDQEBIXTFbQ0BASF0oW0NIMl1bT0hdKU9bQ0BIXShbQ0BASF0xW09IXSluMltjSF1uYyhjMjMpYyhuW2NIXW4zKVtOSF1DKE9DND1PKT1OW0NASF00W0NASF0oW09IXSlbQ0gzXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjQnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0063
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0060
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0002
+
+> <r_epik_State_Penalty>
+  0.0165
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0225482
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+18.7937
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+66577129-1
+
+> <i_xglide_ligandID>
+320940
+
+> <s_i_glide_gridfile>
+glide-grid_F13
+
+> <i_i_glide_lignum>
+62
+
+> <i_i_glide_rotatable_bonds>
+9
+
+> <r_i_docking_score>
+-9.44153417547354
+
+> <r_i_glide_ligand_efficiency>
+-0.337197649124055
+
+> <r_i_glide_ligand_efficiency_sa>
+-1.02393066153519
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.17938330318845
+
+> <r_i_glide_gscore>
+-9.45803417547354
+
+> <r_i_glide_lipo>
+-0.928861930427713
+
+> <r_i_glide_hbond>
+-0.544781597207572
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-1.98242401445075
+
+> <r_i_glide_evdw>
+-24.629524230957
+
+> <r_i_glide_ecoul>
+-22.9066677093506
+
+> <r_i_glide_erotb>
+0.6313040178163
+
+> <r_i_glide_esite>
+-0.0522363786838762
+
+> <r_i_glide_emodel>
+-71.2444679631731
+
+> <r_i_glide_energy>
+-47.5361919403076
+
+> <r_i_glide_einternal>
+7.60414409637451
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_posenum>
+1
+
+> <r_i_glide_eff_state_penalty>
+0.0165
+
+> <chiral flag>
+1
+
+> <ct enhanced stereo status>
+0
+
+> <Source Path>
+/media/snu/HDD/MonkeyPox/LigandDataset
+
+> <Source File>
+PubChem NatProd.sdf
+
+> <Source File Index>
+4216
+
+> <r_lp_tautomer_probability>
+0.999064
+
+> <r_glide_XP_GScore>
+-9.45803417547354
+
+> <r_glide_XP_HBond>
+-5.29422471800756
+
+> <r_glide_XP_PhobEn>
+0
+
+> <r_glide_XP_PhobEnHB>
+0
+
+> <r_glide_XP_LowMW>
+-0.188895066666666
+
+> <r_glide_XP_RotPenal>
+0.270558875529457
+
+> <r_glide_XP_LipophilicEvdW>
+-1.93599834402216
+
+> <r_glide_XP_PhobEnPairHB>
+0
+
+> <r_glide_XP_Electro>
+-1.71800007820129
+
+> <r_glide_XP_Sitemap>
+-0.827113996654981
+
+> <r_glide_XP_Penalties>
+0
+
+> <r_glide_XP_PiStack>
+0
+
+> <r_glide_XP_HBPenal>
+0
+
+> <r_glide_XP_ExposPenal>
+0.235639152549675
+
+> <r_glide_XP_PiCat>
+0
+
+> <r_glide_XP_ClBr>
+0
+
+> <r_glide_XP_Zpotr>
+0
+
+> <i_glide_XP_PoseRank>
+1
+
+> <i_psp_model_num>
+0
+
+> <r_psp_Prime_Coulomb>
+-11569.3563742069
+
+> <r_psp_Prime_Covalent>
+1617.14835816184
+
+> <r_psp_Prime_vdW>
+-1756.2218935
+
+> <r_psp_Prime_Lipo>
+-909.423159292181
+
+> <r_psp_Prime_Solv_GB>
+-1972.58614970459
+
+> <r_psp_Prime_Energy>
+-14887.8169425358
+
+> <s_psp_Prime_Energy_Force_Field>
+S-OPLS
+
+> <s_psp_Prime_Energy_Solvent_Model>
+VSGB2.1
+
+> <r_psp_Prime_Bond_Covalent>
+149.945252286581
+
+> <r_psp_Prime_Bond_SGB>
+24902.1068598839
+
+> <r_psp_Prime_Angle_Covalent>
+738.367480575122
+
+> <r_psp_Prime_Angle_SGB>
+-10356.9258632798
+
+> <r_psp_Prime_Torsion_Covalent>
+728.835625300138
+
+> <r_psp_Prime_NB14_LJ>
+1814.3964537609
+
+> <r_psp_Prime_NB14_Lipo>
+0
+
+> <r_psp_Prime_NB14_Elec>
+10762.9305775326
+
+> <r_psp_Prime_NB14_SGB>
+-8456.95060560393
+
+> <r_psp_Prime_NBShort_LJ>
+-3387.18550498141
+
+> <r_psp_Prime_NBShort_Lipo>
+-909.423159292181
+
+> <r_psp_Prime_NBShort_Elec>
+-22846.1289711903
+
+> <r_psp_Prime_NBShort_SGB>
+10154.5100809425
+
+> <r_psp_Prime_NBLong_LJ>
+-183.43284227949
+
+> <r_psp_Prime_NBLong_Lipo>
+0
+
+> <r_psp_Prime_NBLong_Elec>
+513.842019450805
+
+> <r_psp_Prime_NBLong_SGB>
+-433.935899866126
+
+> <r_psp_Prime_Self_SGB>
+-17781.390721781
+
+> <r_psp_Prime_Hbond>
+-218.050428196106
+
+> <r_psp_Prime_Packing>
+-34.8294947929235
+
+> <r_psp_Prime_SelfCont>
+-44.4978010049576
+
+> <s_psp_Prime_MMGBSA_Input_Structure_Hash>
+06b8c8ee54b194f9383284072d7f85cfa65707e27167e8b86f62b82e
+
+> <i_psp_number_heavy_atoms>
+28
+
+> <s_psp_MMGBSA_moved_residues>
+
+
+> <r_psp_MMGBSA_dG_Bind>
+-27.4722003893421
+
+> <r_psp_MMGBSA_dG_Bind_Coulomb>
+-97.3899702655253
+
+> <r_psp_MMGBSA_dG_Bind_Covalent>
+8.64631793158355
+
+> <r_psp_MMGBSA_dG_Bind_Hbond>
+-4.43362225765082
+
+> <r_psp_MMGBSA_dG_Bind_Lipo>
+-7.00270426496832
+
+> <r_psp_MMGBSA_dG_Bind_Packing>
+-4.63249960215024
+
+> <r_psp_MMGBSA_dG_Bind_SelfCont>
+0
+
+> <r_psp_MMGBSA_dG_Bind_Solv_GB>
+109.220746219284
+
+> <r_psp_MMGBSA_dG_Bind_vdW>
+-31.8804681499182
+
+> <r_psp_Lig_Strain_Energy>
+10.9730381351098
+
+> <r_psp_Lig_Strain_Coulomb>
+3.73073657095598
+
+> <r_psp_Lig_Strain_Covalent>
+8.6463179315847
+
+> <r_psp_Lig_Strain_Hbond>
+0
+
+> <r_psp_Lig_Strain_Lipo>
+-0.105149493318283
+
+> <r_psp_Lig_Strain_Packing>
+0
+
+> <r_psp_Lig_Strain_SelfCont>
+0
+
+> <r_psp_Lig_Strain_Solv_GB>
+-1.87543912767785
+
+> <r_psp_Lig_Strain_vdW>
+0.576572253565267
+
+> <r_psp_Ligand_Energy>
+-62.4639950320156
+
+> <r_psp_Ligand_Coulomb>
+-41.5568784807004
+
+> <r_psp_Ligand_Covalent>
+17.338206442253
+
+> <r_psp_Ligand_Hbond>
+0
+
+> <r_psp_Ligand_Lipo>
+-0.908914697042068
+
+> <r_psp_Ligand_Packing>
+0
+
+> <r_psp_Ligand_SelfCont>
+0
+
+> <r_psp_Ligand_Solv_GB>
+-47.8697890236839
+
+> <r_psp_Ligand_vdW>
+10.5333807271578
+
+> <r_psp_Complex_Energy>
+-14887.8169425358
+
+> <r_psp_Complex_Coulomb>
+-11569.3563742069
+
+> <r_psp_Complex_Covalent>
+1617.14835816184
+
+> <r_psp_Complex_Hbond>
+-218.050428196106
+
+> <r_psp_Complex_Lipo>
+-909.423159292181
+
+> <r_psp_Complex_Packing>
+-34.8294947929235
+
+> <r_psp_Complex_SelfCont>
+-44.4978010049576
+
+> <r_psp_Complex_Solv_GB>
+-1972.58614970459
+
+> <r_psp_Complex_vdW>
+-1756.2218935
+
+> <r_psp_Receptor_Energy>
+-14797.8807471144
+
+> <r_psp_Receptor_Coulomb>
+-11430.4095254606
+
+> <r_psp_Receptor_Covalent>
+1591.163833788
+
+> <r_psp_Receptor_Hbond>
+-213.616805938455
+
+> <r_psp_Receptor_Lipo>
+-901.511540330171
+
+> <r_psp_Receptor_Packing>
+-30.1969951907733
+
+> <r_psp_Receptor_SelfCont>
+-44.4978010049576
+
+> <r_psp_Receptor_Solv_GB>
+-2033.93710690019
+
+> <r_psp_Receptor_vdW>
+-1734.87480607724
+
+> <r_psp_MMGBSA_dG_Bind(NS)>
+-38.4452385244531
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Coulomb>
+-101.12070683648
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Covalent>
+-1.13686837721616e-12
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Hbond>
+-4.43362225765082
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Lipo>
+-6.89755477164999
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Packing>
+-4.63249960215024
+
+> <r_psp_MMGBSA_dG_Bind(NS)_SelfCont>
+0
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Solv_GB>
+111.096185346962
+
+> <r_psp_MMGBSA_dG_Bind(NS)_vdW>
+-32.4570404034835
+
+> <r_psp_Rec_Strain_Energy>
+0
+
+> <r_psp_Rec_Strain_Coulomb>
+0
+
+> <r_psp_Rec_Strain_Covalent>
+0
+
+> <r_psp_Rec_Strain_Hbond>
+0
+
+> <r_psp_Rec_Strain_Lipo>
+0
+
+> <r_psp_Rec_Strain_Packing>
+0
+
+> <r_psp_Rec_Strain_SelfCont>
+0
+
+> <r_psp_Rec_Strain_Solv_GB>
+0
+
+> <r_psp_Rec_Strain_vdW>
+0
+
+> <r_psp_Prime_MMGBSA_ligand_efficiency>
+-0.981150013905075
+
+> <r_psp_Prime_MMGBSA_ligand_efficiency_sa>
+-1.47172502085761
+
+> <r_psp_Prime_MMGBSA_ligand_efficiency_ln>
+-6.34139046871337
+
+> <PUBCHEM_COMPOUND_CID>
+66577129
+
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+76
+93
+89
+85
+45
+53
+16
+101
+27
+86
+23
+31
+71
+65
+67
+29
+64
+57
+97
+11
+66
+103
+37
+44
+20
+41
+99
+87
+70
+63
+56
+62
+59
+4
+30
+24
+48
+94
+61
+9
+3
+91
+72
+78
+88
+32
+90
+102
+2
+81
+10
+33
+25
+79
+54
+42
+74
+100
+34
+35
+60
+28
+36
+73
+6
+51
+104
+19
+18
+84
+92
+83
+26
+46
+15
+82
+98
+12
+21
+52
+49
+77
+38
+95
+43
+80
+68
+7
+13
+14
+69
+50
+55
+96
+58
+5
+17
+75
+39
+22
+8
+40
+47
+
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+34
+1 -0.56
+10 -0.57
+11 -0.55
+12 -0.62
+13 -0.7
+14 0.28
+15 0.54
+16 0.28
+17 0.28
+18 0.28
+19 0.11
+2 -0.68
+20 0.04
+21 0.23
+22 0.41
+23 0.31
+24 0.47
+25 0.28
+26 0.65
+27 0.66
+3 -0.68
+35 0.4
+36 0.4
+37 0.15
+38 0.4
+4 -0.68
+40 0.4
+42 0.15
+46 0.4
+5 -0.3
+6 -0.68
+7 -0.57
+8 0.05
+9 -0.57
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+19
+1 1 acceptor
+1 11 donor
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 3 donor
+1 4 acceptor
+1 4 donor
+1 6 acceptor
+1 6 donor
+1 7 acceptor
+3 10 12 24 cation
+3 11 13 26 cation
+3 8 10 19 cation
+3 8 9 20 cation
+5 1 14 15 16 17 rings
+5 5 13 23 26 27 rings
+5 8 9 19 20 21 rings
+6 10 12 19 21 22 24 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+28
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+6
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+8
+
+> <PUBCHEM_CONFORMER_ID>
+03F7E2E900000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+51.6426
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+97.046
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10 15 18187361082120822560
+10638233 991 16917067797459044904
+11089746 13 12757150194857563311
+11315181 36 18131912672826387601
+11488393 25 17843131303051163295
+11578080 2 16986574615294834530
+11646440 116 18201723959084622825
+11963148 33 18186514406328095891
+12166972 35 18334299785517613452
+12236239 1 17775566433755985569
+12730499 353 18272653446304325854
+12916748 109 18410293605665792056
+13533116 47 17418096495036814582
+13590594 115 16559034878852985753
+14461889 52 18261108634246930858
+14790565 3 18411136896756674108
+14849402 71 18058733653241157905
+14933364 13 18411418414440081317
+15183329 4 15841550764854545441
+15849732 13 18261110785534916084
+18608769 82 18338517555493311459
+18927931 339 18041001761386162451
+21130935 74 18410857659283975235
+21267235 1 18335707156870570655
+21279426 13 18338235959845956063
+21521721 280 18273217525417064114
+21709351 56 18187640315440908181
+220451 1 16988842799828303653
+2303208 19 18412834564237304039
+23081809 10 16200431355881417493
+23536379 177 16056881312387154719
+23559900 14 18130496543781620776
+24771750 20 17902520620646051572
+3004659 81 18335702711790403014
+3178227 256 18336274504548542339
+34797466 226 17632023039372595156
+350125 39 18337110176203605169
+4073 2 18186804673566006435
+4340502 62 16443060587056931168
+5104073 3 18188771626943129931
+59682541 35 18262524801271495291
+59755656 215 18338796715382137063
+9996256 80 18339924913307654767
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+505.26
+19.81
+2.31
+0.97
+6.36
+0.06
+-0.09
+2.38
+-1.46
+-0.54
+0.01
+0.2
+-0.09
+2.19
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+1099.87
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
+
+> <PUBCHEM_SHAPE_VOLUME>
+272.3
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+6.4
+
+> <PUBCHEM_CONFORMER_RMSD>
+1
+
+> <s_m_subgroup_title>
+Top5_Leads->prime_mmgbsa_F13-out2
+
+> <s_m_subgroupid>
+Top5_Leads->prime_mmgbsa_F13-out21
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

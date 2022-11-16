@@ -1,0 +1,700 @@
+A48R-LD-3
+                    3D
+ Schrodinger Suite 2022-3.
+ 60 63  0  0  1  0            999 V2000
+    0.6703   -7.1957   -8.9334 C   0  0  0  0  0  0
+   -0.1883   -9.3280   -9.9553 N   0  3  1  0  0  0
+    0.9375   -8.4892   -9.4422 C   0  0  0  0  0  0
+    3.9478   -5.6150   -6.3672 C   0  0  0  0  0  0
+   -0.6207   -6.4378   -9.1782 C   0  0  0  0  0  0
+    3.9930   -6.6569   -7.2224 N   0  0  0  0  0  0
+    1.7181   -6.5727   -8.2305 C   0  0  0  0  0  0
+   -0.0122   -9.8671  -11.3907 C   0  0  0  0  0  0
+   -0.8526  -10.0565  -14.3415 N   0  3  0  0  0  0
+    2.1985   -9.0810   -9.3230 C   0  0  0  0  0  0
+    5.2309   -5.2079   -5.6813 C   0  0  0  0  0  0
+    2.9610   -7.1931   -8.0163 C   0  0  0  0  0  0
+   -1.3279  -10.5417  -11.8646 C   0  0  1  0  0  0
+    2.9444   -4.9447   -6.1654 O   0  0  0  0  0  0
+   -0.9872   -5.5874   -8.3359 O   0  0  0  0  0  0
+   -1.2293  -11.1273  -13.2948 C   0  0  0  0  0  0
+    6.4296   -5.9014   -5.8821 C   0  0  0  0  0  0
+    5.2438   -4.0555   -4.8802 C   0  0  0  0  0  0
+    3.2051   -8.4292   -8.6134 C   0  0  0  0  0  0
+   -1.2582   -6.6559  -10.2348 O   0  5  0  0  0  0
+   -0.6143  -10.4266   -8.9556 C   0  0  0  0  0  0
+    7.6308   -4.2237   -4.6416 C   0  0  0  0  0  0
+    7.6289   -5.3872   -5.3995 C   0  0  0  0  0  0
+    6.4368   -3.5709   -4.3601 C   0  0  0  0  0  0
+    8.7998   -3.7196   -4.1850 F   0  0  0  0  0  0
+   -0.6965  -10.6249  -15.7595 C   0  0  0  0  0  0
+   -1.8571   -8.8968  -14.4928 C   0  0  0  0  0  0
+   -1.9224  -11.0770   -9.4366 C   0  0  0  0  0  0
+   -1.7946  -11.6264  -10.8655 C   0  0  0  0  0  0
+   -0.7452   -9.3796  -16.6368 C   0  0  0  0  0  0
+   -1.7480   -8.4475  -15.9565 C   0  0  0  0  0  0
+    4.8603   -7.1590   -7.2333 H   0  0  0  0  0  0
+    1.5271   -5.5940   -7.8283 H   0  0  0  0  0  0
+    0.2303   -8.9934  -11.9958 H   0  0  0  0  0  0
+    0.8393  -10.5458  -11.3792 H   0  0  0  0  0  0
+    2.3844  -10.0771   -9.6991 H   0  0  0  0  0  0
+   -2.0953   -9.7648  -11.8547 H   0  0  0  0  0  0
+   -0.4410  -11.8754  -13.3829 H   0  0  0  0  0  0
+   -2.1738  -11.5551  -13.6357 H   0  0  0  0  0  0
+    6.4527   -6.8210   -6.4391 H   0  0  0  0  0  0
+    4.3339   -3.5016   -4.6940 H   0  0  0  0  0  0
+    4.1454   -8.9402   -8.4724 H   0  0  0  0  0  0
+    0.2088  -11.1405   -8.9015 H   0  0  0  0  0  0
+   -0.7435   -9.9414   -7.9868 H   0  0  0  0  0  0
+    8.5630   -5.8800   -5.6193 H   0  0  0  0  0  0
+    6.4379   -2.6665   -3.7793 H   0  0  0  0  0  0
+    0.2338  -11.1933  -15.7986 H   0  0  0  0  0  0
+   -1.5400  -11.2979  -15.9236 H   0  0  0  0  0  0
+   -2.8476   -9.3005  -14.2762 H   0  0  0  0  0  0
+   -1.5818   -8.1368  -13.7604 H   0  0  0  0  0  0
+   -2.1978  -11.8826   -8.7550 H   0  0  0  0  0  0
+   -2.7317  -10.3466   -9.3880 H   0  0  0  0  0  0
+   -1.1009  -12.4663  -10.8714 H   0  0  0  0  0  0
+   -2.7442  -12.0526  -11.1929 H   0  0  0  0  0  0
+    0.2428   -8.9182  -16.6809 H   0  0  0  0  0  0
+   -1.0388   -9.6178  -17.6598 H   0  0  0  0  0  0
+   -2.7250   -8.5208  -16.4365 H   0  0  0  0  0  0
+   -1.4334   -7.4058  -16.0299 H   0  0  0  0  0  0
+    0.0498   -9.6703  -14.0890 H   0  0  0  0  0  0
+   -0.9669   -8.6840  -10.0085 H   0  0  0  0  0  0
+  1  3  2  0  0  0
+  1  5  1  0  0  0
+  1  7  1  0  0  0
+  2  3  1  0  0  0
+  2  8  1  0  0  0
+  2 21  1  0  0  0
+  2 60  1  0  0  0
+  3 10  1  0  0  0
+  4  6  1  0  0  0
+  4 11  1  0  0  0
+  4 14  2  0  0  0
+  5 15  2  0  0  0
+  5 20  1  0  0  0
+  6 12  1  0  0  0
+  6 32  1  0  0  0
+  7 12  2  0  0  0
+  7 33  1  0  0  0
+  8 13  1  0  0  0
+  8 34  1  0  0  0
+  8 35  1  0  0  0
+  9 16  1  0  0  0
+  9 26  1  0  0  0
+  9 27  1  0  0  0
+  9 59  1  0  0  0
+ 10 19  2  0  0  0
+ 10 36  1  0  0  0
+ 11 17  1  0  0  0
+ 11 18  2  0  0  0
+ 12 19  1  0  0  0
+ 13 16  1  0  0  0
+ 13 29  1  0  0  0
+ 13 37  1  0  0  0
+ 16 38  1  0  0  0
+ 16 39  1  0  0  0
+ 17 23  2  0  0  0
+ 17 40  1  0  0  0
+ 18 24  1  0  0  0
+ 18 41  1  0  0  0
+ 19 42  1  0  0  0
+ 21 28  1  0  0  0
+ 21 43  1  0  0  0
+ 21 44  1  0  0  0
+ 22 24  2  0  0  0
+ 22 25  1  0  0  0
+ 22 23  1  0  0  0
+ 23 45  1  0  0  0
+ 24 46  1  0  0  0
+ 26 30  1  0  0  0
+ 26 47  1  0  0  0
+ 26 48  1  0  0  0
+ 27 31  1  0  0  0
+ 27 49  1  0  0  0
+ 27 50  1  0  0  0
+ 28 29  1  0  0  0
+ 28 51  1  0  0  0
+ 28 52  1  0  0  0
+ 29 53  1  0  0  0
+ 29 54  1  0  0  0
+ 30 31  1  0  0  0
+ 30 55  1  0  0  0
+ 30 56  1  0  0  0
+ 31 57  1  0  0  0
+ 31 58  1  0  0  0
+M  CHG  3   2   1   9   1  20  -1
+M  END
+> <s_m_entry_id>
+23
+
+> <s_m_entry_name>
+ChemDiv_NatProdLike.14678
+
+> <s_m_Source_Path>
+E:\MonkeyPox\DockingAnalysis\Top5_Leads
+
+> <s_m_Source_File>
+Top5_Leads.mae
+
+> <i_m_Source_File_Index>
+23
+
+> <s_m_job_name>
+prime_mmgbsa_ThymidyalateKinase
+
+> <IDNUMBER>
+G889-1240
+
+> <canvasUID>
+14678
+
+> <i_lp_mmshare_version>
+59121
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W0NIMl0xW0NIMl1bQ0gyXVtDSDJdTjFbQ0gyXVtDQEBIXShbQ0gyXVtDSDJdW0NIMl0yKVtDSDJdTjJjKGMzQyg9TylbT0hdKVtjSF1bY0hdYyhbY0hdMylbTkhdQyg9TyljNFtjSF1bY0hdYyhGKVtjSF1bY0hdNA==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.1899
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1899
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.1874
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.377348
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+62.7325
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+ligprep_ChemDiv_NatProdLike.sdf:13777-3
+
+> <i_xglide_ligandID>
+152443
+
+> <s_i_glide_gridfile>
+glide-grid_ThymidylateKinase
+
+> <i_i_glide_lignum>
+2486
+
+> <i_i_glide_rotatable_bonds>
+7
+
+> <r_i_docking_score>
+-9.71253863940792
+
+> <r_i_glide_ligand_efficiency>
+-0.313307698045417
+
+> <r_i_glide_ligand_efficiency_sa>
+-0.984218739758558
+
+> <r_i_glide_ligand_efficiency_ln>
+-2.19047511674894
+
+> <r_i_glide_gscore>
+-9.89993863940792
+
+> <r_i_glide_lipo>
+-1.72647370750112
+
+> <r_i_glide_hbond>
+-0.4
+
+> <r_i_glide_metal>
+0
+
+> <r_i_glide_rewards>
+-2.02577078568718
+
+> <r_i_glide_evdw>
+-35.7112274169922
+
+> <r_i_glide_ecoul>
+-11.8133068084717
+
+> <r_i_glide_erotb>
+0.654625604563389
+
+> <r_i_glide_esite>
+-0.184918363148159
+
+> <r_i_glide_emodel>
+-62.6038647305152
+
+> <r_i_glide_energy>
+-47.5245342254639
+
+> <r_i_glide_einternal>
+2.96650671958923
+
+> <i_i_glide_confnum>
+1
+
+> <i_i_glide_posenum>
+24
+
+> <r_i_glide_eff_state_penalty>
+0.1874
+
+> <chiral flag>
+0
+
+> <ct enhanced stereo status>
+0
+
+> <Source Path>
+/media/snu/HDD/MonkeyPox/LigandDataset
+
+> <Source File>
+ChemDiv NatProdLike.sdf
+
+> <Source File Index>
+14678
+
+> <available>
+3
+
+> <H_acceptor>
+5
+
+> <H_donor>
+2
+
+> <B_rotN>
+8
+
+> <N_O>
+6
+
+> <logP>
+3.74
+
+> <logD>
+0.32
+
+> <logSw>
+-0.08
+
+> <PSA>
+72.88
+
+> <Name>
+5-(4-fluorobenzamido)-2-{3-[(pyrrolidin-1-yl)methyl]piperidin-1-yl}benzoic acid
+
+> <Smile>
+OC(c(cc(cc1)NC(c(cc2)ccc2F)=O)c1N1CC(CN2CCCC2)CCC1)=O
+
+> <Collection>
+NC
+
+> <InChI>
+InChI=1S/C24H28FN3O3/c25-19-7-5-18(6-8-19)23(29)26-20-9-10-22(21(14-20)24(30)31)28-13-3-4-17(16-28)15-27-11-1-2-12-27/h5-10,14,17H,1-4,11-13,15-16H2,(H,26,29)(H,30,31)/t17-/m1/s1
+
+> <InChI Key>
+MZKIBZRHQOQYGE-QGZVFWFLSA-N
+
+> <PERCENTSP3>
+41.7
+
+> <Link>
+https://store.chemdiv.com/search.php?s type=lst&collection source=1,2&limit=18&source type=id&list=G889-1240
+
+> <CLNUMBER>
+CL7339
+
+> <CHIRAL>
+False
+
+> <r_glide_XP_GScore>
+-9.89993863940792
+
+> <r_glide_XP_HBond>
+-1.8
+
+> <r_glide_XP_PhobEn>
+-1.275
+
+> <r_glide_XP_PhobEnHB>
+0
+
+> <r_glide_XP_LowMW>
+-0.0783207899999995
+
+> <r_glide_XP_RotPenal>
+0.280553841675374
+
+> <r_glide_XP_LipophilicEvdW>
+-3.12332689407709
+
+> <r_glide_XP_PhobEnPairHB>
+0
+
+> <r_glide_XP_Electro>
+-0.885998010635376
+
+> <r_glide_XP_Sitemap>
+-0.645142792903422
+
+> <r_glide_XP_Penalties>
+0.0286034499100812
+
+> <r_glide_XP_PiStack>
+0
+
+> <r_glide_XP_HBPenal>
+0
+
+> <r_glide_XP_ExposPenal>
+0.598692556622517
+
+> <r_glide_XP_PiCat>
+0
+
+> <r_glide_XP_ClBr>
+0
+
+> <r_glide_XP_Zpotr>
+-3
+
+> <i_glide_XP_PoseRank>
+1
+
+> <i_psp_model_num>
+0
+
+> <r_psp_Prime_Coulomb>
+-6377.85876004256
+
+> <r_psp_Prime_Covalent>
+879.138681007455
+
+> <r_psp_Prime_vdW>
+-971.357701282346
+
+> <r_psp_Prime_Lipo>
+-514.593406906216
+
+> <r_psp_Prime_Solv_GB>
+-1452.76576672588
+
+> <r_psp_Prime_Energy>
+-8603.54099573758
+
+> <s_psp_Prime_Energy_Force_Field>
+S-OPLS
+
+> <s_psp_Prime_Energy_Solvent_Model>
+VSGB2.1
+
+> <r_psp_Prime_Bond_Covalent>
+89.9855851667467
+
+> <r_psp_Prime_Bond_SGB>
+14147.2406403309
+
+> <r_psp_Prime_Angle_Covalent>
+393.12552207171
+
+> <r_psp_Prime_Angle_SGB>
+-5656.5200274737
+
+> <r_psp_Prime_Torsion_Covalent>
+396.027573768998
+
+> <r_psp_Prime_NB14_LJ>
+1031.8980501086
+
+> <r_psp_Prime_NB14_Lipo>
+0
+
+> <r_psp_Prime_NB14_Elec>
+6363.70370900799
+
+> <r_psp_Prime_NB14_SGB>
+-5582.30310005889
+
+> <r_psp_Prime_NBShort_LJ>
+-1914.82285750597
+
+> <r_psp_Prime_NBShort_Lipo>
+-514.593406906216
+
+> <r_psp_Prime_NBShort_Elec>
+-13166.6856461115
+
+> <r_psp_Prime_NBShort_SGB>
+6241.49224190175
+
+> <r_psp_Prime_NBLong_LJ>
+-88.4328938849688
+
+> <r_psp_Prime_NBLong_Lipo>
+0
+
+> <r_psp_Prime_NBLong_Elec>
+425.123177060997
+
+> <r_psp_Prime_NBLong_SGB>
+-410.160207058414
+
+> <r_psp_Prime_Self_SGB>
+-10192.5153143676
+
+> <r_psp_Prime_Hbond>
+-119.944468191917
+
+> <r_psp_Prime_Packing>
+-20.9285579924266
+
+> <r_psp_Prime_SelfCont>
+-25.2310156036947
+
+> <s_psp_Prime_MMGBSA_Input_Structure_Hash>
+dc81d2be1d7d1c1a9f2eb5b4b0b37da00953622a55766df89cdb5124
+
+> <i_psp_number_heavy_atoms>
+31
+
+> <s_psp_MMGBSA_moved_residues>
+
+
+> <r_psp_MMGBSA_dG_Bind>
+-42.8264733030937
+
+> <r_psp_MMGBSA_dG_Bind_Coulomb>
+3.67710288976559
+
+> <r_psp_MMGBSA_dG_Bind_Covalent>
+1.52595140881988
+
+> <r_psp_MMGBSA_dG_Bind_Hbond>
+-0.90490109015586
+
+> <r_psp_MMGBSA_dG_Bind_Lipo>
+-21.9880617521616
+
+> <r_psp_MMGBSA_dG_Bind_Packing>
+-5.07158401446182
+
+> <r_psp_MMGBSA_dG_Bind_SelfCont>
+0
+
+> <r_psp_MMGBSA_dG_Bind_Solv_GB>
+23.8614284470602
+
+> <r_psp_MMGBSA_dG_Bind_vdW>
+-43.9264091919588
+
+> <r_psp_Lig_Strain_Energy>
+4.14070990146422
+
+> <r_psp_Lig_Strain_Coulomb>
+1.09595194072254
+
+> <r_psp_Lig_Strain_Covalent>
+1.52598276147637
+
+> <r_psp_Lig_Strain_Hbond>
+0
+
+> <r_psp_Lig_Strain_Lipo>
+0.0315011255819919
+
+> <r_psp_Lig_Strain_Packing>
+0
+
+> <r_psp_Lig_Strain_SelfCont>
+0
+
+> <r_psp_Lig_Strain_Solv_GB>
+-0.808101157853784
+
+> <r_psp_Lig_Strain_vdW>
+2.2953752315371
+
+> <r_psp_Ligand_Energy>
+-5.75900118595433
+
+> <r_psp_Ligand_Coulomb>
+-19.4305653170382
+
+> <r_psp_Ligand_Covalent>
+27.8847295821596
+
+> <r_psp_Ligand_Hbond>
+0
+
+> <r_psp_Ligand_Lipo>
+-3.98447911538385
+
+> <r_psp_Ligand_Packing>
+0
+
+> <r_psp_Ligand_SelfCont>
+0
+
+> <r_psp_Ligand_Solv_GB>
+-39.2544603688454
+
+> <r_psp_Ligand_vdW>
+29.0257740331534
+
+> <r_psp_Complex_Energy>
+-8603.54099573758
+
+> <r_psp_Complex_Coulomb>
+-6377.85876004256
+
+> <r_psp_Complex_Covalent>
+879.138681007455
+
+> <r_psp_Complex_Hbond>
+-119.944468191917
+
+> <r_psp_Complex_Lipo>
+-514.593406906216
+
+> <r_psp_Complex_Packing>
+-20.9285579924266
+
+> <r_psp_Complex_SelfCont>
+-25.2310156036947
+
+> <r_psp_Complex_Solv_GB>
+-1452.76576672588
+
+> <r_psp_Complex_vdW>
+-971.357701282346
+
+> <r_psp_Receptor_Energy>
+-8554.95552124853
+
+> <r_psp_Receptor_Coulomb>
+-6362.10529761529
+
+> <r_psp_Receptor_Covalent>
+849.728000016475
+
+> <r_psp_Receptor_Hbond>
+-119.039567101761
+
+> <r_psp_Receptor_Lipo>
+-488.62086603867
+
+> <r_psp_Receptor_Packing>
+-15.8569739779648
+
+> <r_psp_Receptor_SelfCont>
+-25.2310156036947
+
+> <r_psp_Receptor_Solv_GB>
+-1437.37273480409
+
+> <r_psp_Receptor_vdW>
+-956.457066123541
+
+> <r_psp_MMGBSA_dG_Bind(NS)>
+-46.9671832045569
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Coulomb>
+2.58115094904224
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Covalent>
+-3.1352656492345e-05
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Hbond>
+-0.90490109015586
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Lipo>
+-22.0195628777436
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Packing>
+-5.07158401446182
+
+> <r_psp_MMGBSA_dG_Bind(NS)_SelfCont>
+0
+
+> <r_psp_MMGBSA_dG_Bind(NS)_Solv_GB>
+24.6695296049138
+
+> <r_psp_MMGBSA_dG_Bind(NS)_vdW>
+-46.2217844234959
+
+> <r_psp_Rec_Strain_Energy>
+0
+
+> <r_psp_Rec_Strain_Coulomb>
+0
+
+> <r_psp_Rec_Strain_Covalent>
+0
+
+> <r_psp_Rec_Strain_Hbond>
+0
+
+> <r_psp_Rec_Strain_Lipo>
+0
+
+> <r_psp_Rec_Strain_Packing>
+0
+
+> <r_psp_Rec_Strain_SelfCont>
+0
+
+> <r_psp_Rec_Strain_Solv_GB>
+0
+
+> <r_psp_Rec_Strain_vdW>
+0
+
+> <r_psp_Prime_MMGBSA_ligand_efficiency>
+-1.38149913880948
+
+> <r_psp_Prime_MMGBSA_ligand_efficiency_sa>
+-2.07224870821421
+
+> <r_psp_Prime_MMGBSA_ligand_efficiency_ln>
+-9.65868220363224
+
+> <Saltdata>
+CF3COOH
+
+> <s_m_subgroup_title>
+Top5_Leads->prime_mmgbsa_ThymidyalateKinase-out1
+
+> <s_m_subgroupid>
+Top5_Leads->prime_mmgbsa_ThymidyalateKinase-out11
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$
